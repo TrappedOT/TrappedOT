@@ -12,7 +12,7 @@
 ![Trappy Wappy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrappedOT&show_icons=true&theme=onedark&show=stars,commits,issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrappedOT&show_icons=true&theme=onedark&layout=compact)
 
-###  Contact
 
-# - Discord @richoff5m
+
+#  Discord @richoff5m
 
