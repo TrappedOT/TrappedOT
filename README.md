@@ -6,7 +6,6 @@
 - ![C++ Icon](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![PY Icon](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-- ![REST API Icon](https://img.shields.io/badge/REST%20API-0096D3?style=for-the-badge&logo=rest-api)
 - ![HTML Icon](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Stats
